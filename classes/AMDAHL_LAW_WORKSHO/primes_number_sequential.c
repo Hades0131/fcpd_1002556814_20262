@@ -2,7 +2,7 @@
 #include <math.h>
 #include <time.h>
 
-#define N 50000000
+#define N 35000000
 // Function to check if number is prine
 
 int isPrime(int n) {
